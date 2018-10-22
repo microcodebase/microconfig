@@ -1,4 +1,4 @@
-package microconfig
+package microconfig_test
 
 import "testing"
 
